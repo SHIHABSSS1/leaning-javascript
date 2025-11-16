@@ -1,1 +1,1 @@
-document.getElementById('IDD').innerHTML = "im learning javascript statements"
+document.getElementById('IDD').innerHTML = "im learning statements"
