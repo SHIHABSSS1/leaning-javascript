@@ -1,0 +1,1 @@
+document.getElementById('IDD').innerHTML = "im learning javascript statements"
